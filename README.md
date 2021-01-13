@@ -1,16 +1,16 @@
-#Zapier Squarespace Commerce Integration
+# Zapier Squarespace Commerce Integration
 
 For info on how to use this integration, see https://platform.zapier.com/docs/export
 
 You may want to delete or modify the .zapierapprc file since that links this code to a specific Custom Integration.
 
-Currently supported:
+## Currently supported
 
-Triggers:
+### Triggers
 
 - New Order
 
-Searches:
+### Searches
 
 - Find Order
 - Get Order
